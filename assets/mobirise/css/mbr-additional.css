@@ -1072,33 +1072,21 @@ a {
     left: -1rem;
   }
 }
-.cid-tkH9cNK3q4 {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  background-color: #ffffff;
+.cid-tkJ54xvmAB {
+  padding-top: 5rem;
+  padding-bottom: 0rem;
+  background-color: #fbfbfb;
 }
-.cid-tkH9cNK3q4 .mbr-fallback-image.disabled {
-  display: none;
+.cid-tkJ54xvmAB section {
+  padding: 0;
 }
-.cid-tkH9cNK3q4 .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
+.cid-tkJ54xvmAB .image-wrapper {
+  padding-right: 150px;
 }
 @media (max-width: 991px) {
-  .cid-tkH9cNK3q4 .image-wrapper {
-    margin-bottom: 1rem;
+  .cid-tkJ54xvmAB .image-wrapper {
+    padding-right: 30px;
   }
-}
-.cid-tkH9cNK3q4 .row {
-  flex-direction: row-reverse;
-}
-.cid-tkH9cNK3q4 img {
-  width: 100%;
 }
 .cid-tkH9Ho9uQU {
   padding-top: 1rem;
@@ -1497,15 +1485,15 @@ a {
 .cid-tkHJZFISBp .mbr-text {
   text-align: center;
 }
-.cid-tkHbB8qZLj {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-image: url("../../../assets/images/background1.jpg");
+.cid-tkJ3E6Jo3h {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #fafafa;
 }
-.cid-tkHbB8qZLj .mbr-fallback-image.disabled {
+.cid-tkJ3E6Jo3h .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-tkHbB8qZLj .mbr-fallback-image {
+.cid-tkJ3E6Jo3h .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1514,31 +1502,46 @@ a {
   position: absolute;
   top: 0;
 }
-@media (max-width: 991px) {
-  .cid-tkHbB8qZLj .image-wrapper {
-    margin-bottom: 1rem;
-  }
+.cid-tkJ3E6Jo3h .oldcost {
+  text-decoration: line-through;
+  color: #353535;
 }
-.cid-tkHbB8qZLj .row {
-  flex-direction: row-reverse;
+.cid-tkJ3E6Jo3h .currentcost {
+  color: #232323;
 }
-.cid-tkHbB8qZLj img {
-  width: 100%;
+.cid-tkJ3E6Jo3h .card-wrapper {
+  border-radius: 4px;
+  background: #ffffff;
 }
 @media (min-width: 992px) {
-  .cid-tkHbB8qZLj .text-wrapper {
+  .cid-tkJ3E6Jo3h .text-box {
+    padding: 2rem;
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-tkJ3E6Jo3h .text-box {
     padding: 2rem;
   }
 }
-.cid-tkHbAqZTcA {
+@media (max-width: 767px) {
+  .cid-tkJ3E6Jo3h .text-box {
+    padding: 1rem;
+  }
+}
+.cid-tkJ3E6Jo3h .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+.cid-tkJ3H67jlY {
   padding-top: 2rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
+  padding-bottom: 5rem;
+  background-color: #fafafa;
 }
-.cid-tkHbAqZTcA .mbr-fallback-image.disabled {
+.cid-tkJ3H67jlY .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-tkHbAqZTcA .mbr-fallback-image {
+.cid-tkJ3H67jlY .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1547,18 +1550,38 @@ a {
   position: absolute;
   top: 0;
 }
-@media (max-width: 991px) {
-  .cid-tkHbAqZTcA .image-wrapper {
-    margin-bottom: 1rem;
-  }
+.cid-tkJ3H67jlY .oldcost {
+  text-decoration: line-through;
+  color: #353535;
 }
-.cid-tkHbAqZTcA img {
-  width: 100%;
+.cid-tkJ3H67jlY .currentcost {
+  color: #232323;
+}
+.cid-tkJ3H67jlY .card-wrapper {
+  border-radius: 4px;
+  background: #ffffff;
 }
 @media (min-width: 992px) {
-  .cid-tkHbAqZTcA .text-wrapper {
+  .cid-tkJ3H67jlY .text-box {
+    padding: 2rem;
+    padding-right: 4rem;
+    padding-left: 4rem;
+    padding-right: 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-tkJ3H67jlY .text-box {
     padding: 2rem;
   }
+}
+@media (max-width: 767px) {
+  .cid-tkJ3H67jlY .text-box {
+    padding: 1rem;
+  }
+}
+.cid-tkJ3H67jlY .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
 }
 .cid-tkHbiG1lMr {
   background-color: #ffffff;
@@ -1694,7 +1717,7 @@ a {
 }
 .cid-tkHbiG1lMr .contact-container .phone-container {
   padding: 16px 25px;
-  background-color: #0057fc;
+  background-color: #e43f3f;
   border-radius: 5px;
   margin-bottom: 10px;
   margin-right: 16px;
@@ -1707,7 +1730,7 @@ a {
 }
 .cid-tkHbiG1lMr .contact-container .email-container {
   padding: 16px 25px;
-  background-color: #111111;
+  background-color: #4479d9;
   border-radius: 5px;
   margin-bottom: 10px;
   margin-right: 16px;
@@ -1759,7 +1782,7 @@ a {
   margin-right: 12px;
 }
 .cid-tkHbiG1lMr .icon-box .mbr-iconfont {
-  color: #111111;
+  color: #22a5e5;
 }
 .cid-tkHbiG1lMr .card-text {
   color: #000000;
